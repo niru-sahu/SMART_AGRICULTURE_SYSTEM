@@ -77,17 +77,6 @@ Such smart systems help reduce manual effort, improve crop health, and optimize 
 
 ---
 
-## Project Preview
-
-### Circuit Diagram
-
-![Circuit](docs/circuit_diagram.png)
-
-### System Setup
-
-![Setup](images/setup.jpg)
-
-
 ## Simulation Platform
 
 This project was built and tested using **Tinkercad Circuits**, an online platform for simulating Arduino-based electronics projects.
