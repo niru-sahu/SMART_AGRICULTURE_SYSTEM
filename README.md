@@ -33,7 +33,7 @@ Based on sensor data:
 * Air vents open/close using a servo motor
 * Alerts are generated if an intruder is detected
 
-Such smart systems help reduce manual effort, improve crop health, and optimize water usage in modern agriculture ([RSIS International][1]).
+Such smart systems help reduce manual effort, improve crop health, and optimize water usage in modern agriculture .
 
 ---
 
@@ -87,11 +87,6 @@ Such smart systems help reduce manual effort, improve crop health, and optimize 
 
 ![Setup](images/setup.jpg)
 
-### LCD Output
-
-![LCD](images/lcd_output.jpg)
-
----
 
 ## Simulation Platform
 
