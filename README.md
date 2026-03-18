@@ -1,4 +1,4 @@
-# 🌱 Smart Agriculture System (Arduino + Tinkercad)
+# Smart Agriculture System (Arduino + Tinkercad)
 
 An automated smart agriculture system designed using Arduino and simulated in Tinkercad.
 This project monitors environmental parameters and automates irrigation, ventilation, and security for efficient and safe farming.
@@ -7,23 +7,23 @@ This project monitors environmental parameters and automates irrigation, ventila
 
 ## 🔗 Tinkercad Simulation
 
-👉 [Click here to view the live simulation](https://www.tinkercad.com/things/hg5rS0qFnWG-smartagriculturesystem)
+[Click here to view the live simulation](https://www.tinkercad.com/things/hg5rS0qFnWG-smartagriculturesystem)
 
 ---
 
-## 🚀 Features
+## Features
 
-* 🌡️ Temperature Monitoring (TMP36 Sensor)
-* 💧 Humidity Detection
-* 🌱 Soil Moisture-Based Irrigation System
-* 🚨 Intruder Detection using Ultrasonic Sensor
-* 🔊 Buzzer Alert System
-* 🔄 Automatic Air Vent Control (Servo Motor)
-* 📟 LCD Display for Real-Time Monitoring
+*  Temperature Monitoring (TMP36 Sensor)
+*  Humidity Detection
+*  Soil Moisture-Based Irrigation System
+*  Intruder Detection using Ultrasonic Sensor
+*  Buzzer Alert System
+*  Automatic Air Vent Control (Servo Motor)
+*  LCD Display for Real-Time Monitoring
 
 ---
 
-## 🧠 Project Overview
+##  Project Overview
 
 This system is designed to automate greenhouse/agriculture operations by continuously monitoring environmental conditions such as temperature, humidity, and soil moisture.
 
@@ -37,7 +37,7 @@ Such smart systems help reduce manual effort, improve crop health, and optimize 
 
 ---
 
-## 🛠️ Components Used
+## Components Used
 
 * Arduino Uno
 * 16x2 LCD Display
@@ -51,7 +51,7 @@ Such smart systems help reduce manual effort, improve crop health, and optimize 
 
 ---
 
-## ⚡ Pin Configuration
+## Pin Configuration
 
 | Component            | Pin                |
 | -------------------- | ------------------ |
@@ -67,7 +67,7 @@ Such smart systems help reduce manual effort, improve crop health, and optimize 
 
 ---
 
-## 🔄 Working Principle
+## Working Principle
 
 1. Ultrasonic sensor detects nearby objects (intruders)
 2. Temperature & humidity are displayed on LCD
@@ -77,7 +77,7 @@ Such smart systems help reduce manual effort, improve crop health, and optimize 
 
 ---
 
-## 📸 Project Preview
+## Project Preview
 
 ### Circuit Diagram
 
@@ -93,47 +93,13 @@ Such smart systems help reduce manual effort, improve crop health, and optimize 
 
 ---
 
-## 🎥 Demo Video
-
-👉 [Watch the project working](#)
-(*Replace this with your video link*)
-
----
-
-## 📂 Project Structure
-
-```
-Greenhouse-Automation/
-│── README.md
-│── src/
-│   └── greenhouse.ino
-│── docs/
-│   ├── circuit_diagram.png
-│   ├── schematic.pdf
-│── images/
-│── videos/
-```
-
----
-
-## 🧪 Simulation Platform
+## Simulation Platform
 
 This project was built and tested using **Tinkercad Circuits**, an online platform for simulating Arduino-based electronics projects.
 
 ---
 
-## 🔥 Highlights
-
-* Fully automated smart agriculture system 🌱
-* Real-time monitoring 📟
-* Efficient water management 💧
-* Security with intruder detection 🚨
-* Beginner-friendly and simulation-based 🧪
-
----
-
-
-## 👨‍💻 Author
+## Author
 
 **Your Name**
 Nirupama Sahu
