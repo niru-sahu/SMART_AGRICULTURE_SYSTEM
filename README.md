@@ -85,7 +85,7 @@ This project was built and tested using **Tinkercad Circuits**, an online platfo
 
 ## Author
 
-**Your Name**
+
 Nirupama Sahu
 
 ---
